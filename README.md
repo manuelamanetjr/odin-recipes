@@ -1,4 +1,1 @@
-Set up your README.md file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
-updated 11111111111111111
-22222222222222
-333333333
+Just a simple html. Doing the basic html tags. The beginning of my web development journey :)
